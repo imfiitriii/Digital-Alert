@@ -1,0 +1,3 @@
+[submodule "Digital-Alert"]
+	path = Digital-Alert
+	url = https://github.com/imfiitriii/Digital-Alert.git
